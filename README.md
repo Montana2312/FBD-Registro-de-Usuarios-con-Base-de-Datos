@@ -1,8 +1,8 @@
 # Registro de Usuarios
 
 ## Descripción
-Este proyecto consiste en una aplicación sencilla para registrar información básica de usuarios.
+Actualmente, el registro de usuarios en muchas organizaciones se realiza de manera manual o en sistemas poco organizados, lo que puede provocar pérdida de información, errores en los datos y dificultad para consultar o actualizar registros.
 
 ## Motivación
-El propósito de este proyecto es aplicar los conocimientos adquiridos durante el curso en un proyecto práctico.
+La motivación principal de este proyecto es mejorar la gestión y control de la información de los usuarios mediante un sistema digital organizado. Contar con un registro estructurado permite ahorrar tiempo, evitar duplicidad de datos y mantener la información actualizada.
 
